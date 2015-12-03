@@ -1,0 +1,6 @@
+task hello {
+  println delegate.class
+  doLast {
+      println 'hello world'
+  }
+}
