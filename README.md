@@ -2,7 +2,7 @@
 
 * 講題：《由 Groovy 到 Gradle》
 * 活動頁面：http://jcconf.tw/speaker/groovy-to-gradle.html
-* 投影片：[speakerdeck](https://speakerdeck.com/qrtt1/jcconf2015-groovy-to-gradle)
+* 投影片：[speakerdeck](https://speakerdeck.com/qrtt1/jcconf2015-groovy-to-gradle) [slideshare](http://www.slideshare.net/qrtt1/jcconf2015-groovy-to-gradle)
 
 ## 資源介紹
 
